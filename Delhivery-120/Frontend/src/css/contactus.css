@@ -1,0 +1,72 @@
+.text12{
+    margin-left: 70px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    animation: 4s anim-lineUp ease-out ;
+}
+
+.text13{
+    margin-left: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    animation: 5s anim-lineUp ease-out ;
+}
+
+.para6{
+    margin-left: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    font-size: 23px;
+    animation: 6s anim-lineUp ease-out ;
+}
+
+
+
+
+
+
+
+
+.group{
+    margin-left: 70px;
+    animation: 6s anim-lineUp ease-out ;
+}
+
+@keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+
+
+  @media (max-width: 576px) {
+  
+    .text12{
+      margin: 0rem 1rem;
+  }
+  .text13{
+    margin:0rem 1rem;
+    font-size: 1.4rem;
+  }
+  .para6{
+    margin: 0rem 1rem;
+    font-size: 1.2rem;
+    
+  }
+  .group{
+    margin: 0rem 1rem; 
+  }
+  
+}

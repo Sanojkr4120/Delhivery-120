@@ -1,0 +1,156 @@
+.text1{
+        animation: 3s anim-lineUp ease-out ;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 4.5rem;
+        margin-top: 20px;
+}
+      @keyframes anim-lineUp {
+        0% {
+          opacity: 0;
+          transform: translateY(80%);
+        }
+        20% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+      }
+
+
+      .para1{
+        animation: 5s anim-lineUp ease-out ;
+        text-align: justify;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 1.6rem;
+        justify-content: center;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top:50px;
+        color: grey;
+}
+      @keyframes anim-lineUp {
+        0% {
+          opacity: 0;
+          transform: translateY(80%);
+        }
+        20% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0%);
+        }
+      }
+
+.text2{
+  animation: 3s anim-lineUp ease-out ;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 4rem;
+        margin-top: 4rem;
+        margin-bottom: 2rem;
+}
+
+.text3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 2.2rem;
+
+}
+
+.para2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: grey;
+
+}
+
+.btn{
+  background-color:deepskyblue;
+  font-size: 25px;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.text4{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 35px;
+  margin-left: 280px;
+}
+#appoint{
+  margin-left: 200px;
+}
+
+
+@media (max-width: 576px) {
+  .text1{
+    
+    font-size: 3rem;
+    margin-top: 20px;
+  }
+  .text2{
+  
+          font-size: 2rem;
+          margin-top: 3rem;
+          
+  }
+  .text3{
+    font-size: 2rem;
+    margin: 1rem;
+  
+  }
+  .text4{
+    font-size: 2rem;
+    margin: 1rem;
+  }
+  .btn{
+    
+    font-size:1.4rem;
+    border-radius: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left:1.9rem;
+  }
+  #dispatch{
+    width: 11rem;
+    margin: 1rem;
+  }
+  #appoint{
+    margin-left: 1rem;
+  }
+  .para2{
+    font-size: 1.2rem;
+    margin: 1rem;  
+  }
+  .container{
+    
+    padding: 0rem;
+  }
+  .image{
+    width: 20rem;
+    
+  }
+  .para1{
+    
+    font-size: 1.2rem;    
+    margin: 1rem;
+
+  }
+  
+  
+ 
+  
+}
+
+      

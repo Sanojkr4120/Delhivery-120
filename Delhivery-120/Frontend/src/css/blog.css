@@ -1,0 +1,52 @@
+.image2{
+    width:600px;
+    animation: 4s anim-lineUp ease-out ;
+}
+
+.text14{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    animation: 5s anim-lineUp ease-out ;
+}
+
+@keyframes anim-lineUp {
+    0% {
+      opacity: 0;
+      transform: translateY(80%);
+    }
+    20% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+
+  .para7{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:grey;
+    font-size: 23px;
+    margin-top: 10px;
+    animation: 6s anim-lineUp ease-out ;
+}
+
+
+@media (max-width: 576px) {
+  
+  .image2{
+    width: 20rem;
+  }
+  .text14{
+    margin: 1rem;
+  }
+  .para7{
+    font-size: 1.2rem;
+    margin: 1rem;
+  }
+  
+}
