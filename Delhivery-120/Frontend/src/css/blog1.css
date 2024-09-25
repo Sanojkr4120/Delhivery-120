@@ -30,6 +30,9 @@
 
 @media (max-width: 576px) {
   
-
+  .image3{
+    width: 20rem;
+    margin: 1rem;
+  }
   
 }

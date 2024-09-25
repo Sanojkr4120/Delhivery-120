@@ -6,11 +6,11 @@ import "../css/home.css";
 export default function Home() {
   return (
     <div>
-      <h2 className='text1'>Welcome to Delhivery Express</h2>
+      <h2 className='text1'>Welcome to Delivery Express</h2>
       <div className='box'>
-        <p className='para1'>Welcome to Delhivery Express, where convenience meets reliability in every shipment. Our company prides itself on offering top-notch package pickup and delivery services tailored to your needs. Whether you’re sending a small parcel or planning a corporate relocation, we’ve got you covered from start to finish. With our streamlined booking process and real-time tracking, you can trust us to handle your items with care and precision, ensuring they reach their destination promptly and securely.
+        <p className='para1'>Welcome to Delivery Express, where convenience meets reliability in every shipment. Our company prides itself on offering top-notch package pickup and delivery services tailored to your needs. Whether you’re sending a small parcel or planning a corporate relocation, we’ve got you covered from start to finish. With our streamlined booking process and real-time tracking, you can trust us to handle your items with care and precision, ensuring they reach their destination promptly and securely.
 
-          At Delhivery Express, we understand the importance of seamless transitions, especially when it comes to corporate moves. That’s why our expert team is dedicated to providing comprehensive relocation solutions designed to minimize disruption to your business operations. From packing and loading to transportation and unpacking, we take care of every detail so you can focus on what matters most. With our commitment to excellence and customer satisfaction, you can rest assured that your move is in good hands with Delhivery Express.</p>
+          At Delivery Express, we understand the importance of seamless transitions, especially when it comes to corporate moves. That’s why our expert team is dedicated to providing comprehensive relocation solutions designed to minimize disruption to your business operations. From packing and loading to transportation and unpacking, we take care of every detail so you can focus on what matters most. With our commitment to excellence and customer satisfaction, you can rest assured that your move is in good hands with Delivery Express.</p>
       </div>
 
       <div className='container'>

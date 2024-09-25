@@ -72,7 +72,7 @@ function ContactUs() {
 
                             <h5 className="text13">Email Us:-</h5>
                             <br />
-                            <p className="para6">Delhivery_Express123@gmail.com</p>
+                            <p className="para6">Delivery_Express123@gmail.com</p>
                             <br />
                             <br />
 

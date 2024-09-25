@@ -11,7 +11,7 @@ export default function Services() {
                 <div className='col-md-6'>
                     <h4 className='text7'>What We Do</h4>
                     <h1 className='text8'>Effortless Logistics Solutions</h1>
-                    <p className='para4'>At Delhivery Express, we specialize in simplifying your logistics needs. Whether you require seamless package delivery or expert corporate moving solutions, we have got you covered.<br/><br/><br/>
+                    <p className='para4'>At Delivery Express, we specialize in simplifying your logistics needs. Whether you require seamless package delivery or expert corporate moving solutions, we have got you covered.<br/><br/><br/>
                     Our services are designed to provide convenience, reliability, and peace of mind, ensuring your shipments reach their destination safely and efficiently. With our commitment to excellence and customer satisfaction, you can trust us to handle all your transportation needs with care and precision.</p>
 
                 </div>

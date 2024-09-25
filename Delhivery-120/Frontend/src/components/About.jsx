@@ -56,16 +56,16 @@ export default function About() {
                 <div className='row'>
                     <div className='col-md-4'>
                         <h4 className='text6'>Our Mission</h4>
-                        <p className='para3'>We are dedicated to revolutionizing convenience in logistics. Our commitment lies in offering seamless, reliable, and innovative solutions for package delivery and corporate moving. We aim to empower individuals and businesses alike with hassle-free transportation services, ensuring peace of mind and satisfaction throughout the entire process.<br /><br />Driven by our mission, we continually strive to surpass expectations and cultivate enduring relationships with our clients. Moreover, We are deeply committed to making a positive impact on the communities we serve, aiming to foster growth and prosperity through our dedicated services. At At Delhivery Express, our mission is clear: to redefine convenience in logistics and leave a lasting impression on every doorstep we reach.</p>
+                        <p className='para3'>We are dedicated to revolutionizing convenience in logistics. Our commitment lies in offering seamless, reliable, and innovative solutions for package delivery and corporate moving. We aim to empower individuals and businesses alike with hassle-free transportation services, ensuring peace of mind and satisfaction throughout the entire process.<br /><br />Driven by our mission, we continually strive to surpass expectations and cultivate enduring relationships with our clients. Moreover, We are deeply committed to making a positive impact on the communities we serve, aiming to foster growth and prosperity through our dedicated services. At At Delivery Express, our mission is clear: to redefine convenience in logistics and leave a lasting impression on every doorstep we reach.</p>
 
                     </div>
 
                     <div className='col-md-4'>
                         <h4 className='text6'>Our Vision</h4>
-                        <p className='para3'>At Delhivery Express, our values form the cornerstone of our operations. We prioritize reliability, ensuring our customers consistently rely on us for seamless package deliveries and precision-driven corporate moves. Through collaboration and teamwork, we leverage diverse talents to uphold our unwavering commitment to excellence.
+                        <p className='para3'>At Delivery Express, our values form the cornerstone of our operations. We prioritize reliability, ensuring our customers consistently rely on us for seamless package deliveries and precision-driven corporate moves. Through collaboration and teamwork, we leverage diverse talents to uphold our unwavering commitment to excellence.
 
 
-                            <br /><br />Our culture of innovation and dedication to core values drive us toward our vision of industry leadership. Each team member contributes to our success, propelling us forward as we strive to deliver unparalleled logistics solutions. At Delhivery Express, We are more than just a delivery service; We are your trusted partner, delivering reliability and excellence with every doorstep.</p>
+                            <br /><br />Our culture of innovation and dedication to core values drive us toward our vision of industry leadership. Each team member contributes to our success, propelling us forward as we strive to deliver unparalleled logistics solutions. At Delivery Express, We are more than just a delivery service; We are your trusted partner, delivering reliability and excellence with every doorstep.</p>
 
                     </div>
 

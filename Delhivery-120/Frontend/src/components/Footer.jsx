@@ -1,10 +1,4 @@
-// // import React from 'react'
-// import FacebookIcon from '@mui/icons-material/Facebook';
-// import InstagramIcon from '@mui/icons-material/Instagram';
-// import TwitterIcon from '@mui/icons-material/Twitter';
-// import LinkedInIcon from '@mui/icons-material/LinkedIn';
-// import GoogleIcon from '@mui/icons-material/Google';
-// import YouTubeIcon from '@mui/icons-material/YouTube';
+
 
 export default function Footer() {
   return (
@@ -35,7 +29,7 @@ export default function Footer() {
               <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 
                 <h6 className="text-uppercase fw-bold mb-4">
-                  <i className="fas fa-gem me-3"></i>Door Delhivery
+                  <i className="fas fa-gem me-3"></i>Door Delivery
                 </h6>
                 <p>
 
@@ -92,7 +86,7 @@ export default function Footer() {
                 <p><i className="fas fa-home me-3"></i> Patliputra Colony - Patna ,Bihar</p>
                 <p>
                   <i className="fas fa-envelope me-3"></i>
-                  Delhivery_Express123@gmail.com
+                  Delivery_Express123@gmail.com
                 </p>
                 <p><i className="fas fa-phone me-3"></i> 9939394120</p>
                 <p><i className="fas fa-print me-3"></i> 9060631013</p>
@@ -107,7 +101,7 @@ export default function Footer() {
 
         <div className="text-center p-4" style={{ background: "rgba(0, 0, 0, 0.05)" }}>
           © 2024 Copyright:
-          <a className="text-reset fw-bold" href="#">Delhivery_Express.com</a>
+          <a className="text-reset fw-bold" href="#">Delivery_Express.com</a>
         </div>
 
       </footer>
